@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9693cdb-05ec-438e-b4ce-184e0b94818e" name="Changes" comment="se añadio suma V1_1">
-      <change afterPath="$PROJECT_DIR$/Suma_V1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a9693cdb-05ec-438e-b4ce-184e0b94818e" name="Changes" comment="Proyecto de suma V1_2 en POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,12 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725320389089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Proyecto de suma V1_2 en POO">
+      <option name="closed" value="true" />
+      <created>1725320829893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320829893</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto de suma" />
     <MESSAGE value="se añadio suma V1_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="se añadio suma V1_1" />
+    <MESSAGE value="Proyecto de suma V1_2 en POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de suma V1_2 en POO" />
   </component>
 </project>
